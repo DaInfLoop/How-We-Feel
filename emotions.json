@@ -1,0 +1,327 @@
+{
+    "red": [
+        {
+            "name": "Afraid",
+            "desc": "experiencing fear or threat"
+        },
+        {
+            "name": "Agitated",
+            "desc": "very troubled and restless"
+        },
+        {
+            "name": "Alarmed",
+            "desc": "a sense of urgent fear or concern"
+        },
+        {
+            "name": "Ambivalent",
+            "desc": "having contradictory attitudes or feelings about something"
+        },
+        {
+            "name": "Angry",
+            "desc": "strongly bothered about a perceieved injustice"
+        },
+        {
+            "name": "Anguished",
+            "desc": "experiencing severe physiological pain or suffering"
+        },
+        {
+            "name": "Annoyed",
+            "desc": "bothered by something displeasing or uncomfortable"
+        },
+        {
+            "name": "Anxious",
+            "desc": "worried and uneasy about an uncertain outcome"
+        },
+        {
+            "name": "Apprehensive",
+            "desc": "unease and worry about something that might happen"
+        },
+        {
+            "name": "Astonished",
+            "desc": "greatly surprised or impressed"
+        },
+        {
+            "name": "Concerned",
+            "desc": "wondering if someone or something is okay"
+        },
+        { 
+            "name": "Confused", 
+            "desc": "feeling unable to make sense of something"
+        },
+        {
+            "name": "Contempt",
+            "desc": "feeling a combination of anger and disgust"
+        },
+        {
+            "name": "Dazed",
+            "desc": "feeling you are unable to think or react"
+        },
+        {
+            "name": "Discombobulated",
+            "desc": "thrown into a state of confusion or uncertainty"
+        },
+        {
+            "name": "Discomfort",
+            "desc": "feeling of unease or pain"
+        },
+        {
+            "name": "Displeased",
+            "desc": "feeling unhappy, dissatisfied, or disapproving"
+        },
+        {
+            "name": "Distracted",
+            "desc": "feeling diverted or far away from the present focus"
+        },
+        {
+            "name": "Distressed",
+            "desc": "feeling unwell and agitated physiologically, can have different causes (emotional pain, threat, loss, etc.)"
+        },
+        {
+            "name": "Dread",
+            "desc": "anxiety because of expecting something unpleasant or upsetting"
+        },
+        {
+            "name": "Dumbfounded",
+            "desc": "being speechless with shock"
+        },
+        {
+            "name": "Dysregulated",
+            "desc": "feeling you can't steady your emotions"
+        },
+        {
+            "name": "Embarrassed",
+            "desc": "self-conscious and uncomfortable about how you think others are perceiving you"
+        },
+        {
+            "name": "Enraged",
+            "desc": "made furious by something; filled with extreme anger"
+        },
+        {
+            "name": "Envious",
+            "desc": "feelings of desire for something that someone else has"
+        },
+        {
+            "name": "Exasperated",
+            "desc": "experiencing intense irritation"
+        },
+        {
+            "name": "Flabbergasted",
+            "desc": "feeling intense surprise or shock"
+        },
+        {
+            "name": "Fomo",
+            "desc": "fear of missing out"
+        },
+        {
+            "name": "Foolish",
+            "desc": "feeling self-conscious after doing something unwise"
+        },
+        {
+            "name": "Frazzled",
+            "desc": "feeling exhausted, disorganised, and emotionally frayed"
+        },
+        {
+            "name": "Frightened",
+            "desc": "afraid or fearful"
+        },
+        {
+            "name": "Frozen",
+            "desc": "feeling you cannot act due to overwhelming anxiety or fear"
+        },
+        {
+            "name": "Frustrated",
+            "desc": "upset because you cannot do something you want to do"
+        },
+        {
+            "name": "Furious",
+            "desc": "full of extreme or wild anger"
+        },
+        {
+            "name": "Grumpy",
+            "desc": "feeling bad-tempered and easily annoyed"
+        },
+        {
+            "name": "Hate",
+            "desc": "intense dislike for something or someone"
+        },
+        {
+            "name": "Horrified",
+            "desc": "experiencing intense fear or disgust"
+        },
+        {
+            "name": "Hyper",
+            "desc": "feeling energetic and like you want to make around"
+        },
+        {
+            "name": "Impassioned",
+            "desc": "filled with lots of emotion"
+        },
+        {
+            "name": "Indecisive",
+            "desc": "feeling unable to make a decision due to conflicting emotions"
+        },
+        {
+            "name": "Indignant",
+            "desc": "feeling angry and disgusted when unfairly treated"
+        },
+        {
+            "name": "Irate",
+            "desc": "feeling like your anger is almost out of control"
+        },
+        {
+            "name": "Irked",
+            "desc": "feeling leery and impatient"
+        },
+        {
+            "name": "Irritable",
+            "desc": "feeling easily bothered or angered"
+        },
+        {
+            "name": "Irritated",
+            "desc": "slightly angry with or annoyed by an action or event"
+        },
+        {
+            "name": "Jealous",
+            "desc": "threatened that you're losing an important relationship to someone else"
+        },
+        {
+            "name": "Jittery",
+            "desc": "feeling on edge and jumpy"
+        },
+        {
+            "name": "Livid",
+            "desc": "feeling furious about something or someone"
+        },
+        {
+            "name": "Mad",
+            "desc": "feeling intensely angry"
+        },
+        {
+            "name": "Nauseated",
+            "desc": "feeling sick with disgust"
+        },
+        {
+            "name": "Nervous",
+            "desc": "jumpy and worried about the future or an uncertain event"
+        },
+        {
+            "name": "Obsessed",
+            "desc": "preoccupied or haunted by an idea or interest"
+        },
+        {
+            "name": "Overwhelmed",
+            "desc": "feeling like you have been taken over by strong feelings"
+        },
+        {
+            "name": "Panicked",
+            "desc": "feeling frantic and overcome by fear"
+        },
+        {
+            "name": "Passionate",
+            "desc": "feeling intense engagement and commitment to someone or something"
+        },
+        {
+            "name": "Peeved",
+            "desc": "slightly irritated about something"
+        },
+        {
+            "name": "Pissed",
+            "desc": "very angry or annoyed"
+        },
+        {
+            "name": "Pressured",
+            "desc": "feeling as if an important outcome depends on you"
+        },
+        {
+            "name": "Repulsed",
+            "desc": "nauseated by someone or something"
+        },
+        {
+            "name": "Restless",
+            "desc": "unable to relax due to anxiety or boredom"
+        },
+        {
+            "name": "Rushed",
+            "desc": "feeling pressured to move or do something quickly"
+        },
+        {
+            "name": "Scared",
+            "desc": "perceiving threat or danger, whether physical or physiological"
+        },
+        {
+            "name": "Scorn",
+            "desc": "feeling that someone or something is worthless or despicable"
+        },
+        {
+            "name": "Shocked",
+            "desc": "experiencing extreme horror, disgust, and surprise"
+        },
+        {
+            "name": "Spiteful",
+            "desc": "a desire to infuriate someone to get back at them"
+        },
+        {
+            "name": "Startled",
+            "desc": "move or jump suddenly with surprise or alarm"
+        },
+        {
+            "name": "Strained",
+            "desc": "tension from engaging in extreme effort"
+        },
+        {
+            "name": "Stressed",
+            "desc": "strained mentally or emotionally from too many demands and not enough resources"
+        },
+        {
+            "name": "Stunned",
+            "desc": "feeling confused or astounded by an event"
+        },
+        {
+            "name": "Taken Aback",
+            "desc": "being surprised by something unpleasant or offensive"
+        },
+        {
+            "name": "Tense",
+            "desc": "unable to relax"
+        },
+        {
+            "name": "Terrified",
+            "desc": "consumed by fear"
+        },
+        {
+            "name": "Triggered",
+            "desc": "feeling set off or activated by something"
+        },
+        {
+            "name": "Troubled",
+            "desc": "feeling worried about a problem or conflict"
+        },
+        {
+            "name": "Uncertain",
+            "desc": "lack of clarity or confidence about something"
+        },
+        {
+            "name": "Uneasy",
+            "desc": "vague sense that something is wrong"
+        },
+        {
+            "name": "Unstable",
+            "desc": "feeling unbalanced and unsteady"
+        },
+        {
+            "name": "Upset",
+            "desc": "feeling disturbed or agitated"
+        },
+        {
+            "name": "Vengeful",
+            "desc": "a desire to harm someone because of a preceieved injustice"
+        },
+        {
+            "name": "Worried",
+            "desc": "troubled about actual or potential problems"
+        }
+    ],
+    "yellow": [],
+    "blue": [],
+    "green": []
+}
