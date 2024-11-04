@@ -321,7 +321,268 @@
             "desc": "troubled about actual or potential problems"
         }
     ],
-    "yellow": [],
+    "yellow": [
+        {
+            "name": "Absorbed",
+            "desc": "fully focused and interested"
+        },
+        {
+            "name": "Accomplished",
+            "desc": "feeling effective and successful"
+        },
+        {
+            "name": "Adoring",
+            "desc": "feeling a deep love or respect for something or someone"
+        },
+        {
+            "name": "Alert",
+            "desc": "feeling awake and focused"
+        },
+        {
+            "name": "Alive",
+            "desc": "filled with energy and vitality"
+        },
+        {
+            "name": "Amazed",
+            "desc": "feeling lost in wonder about a particular event"
+        },
+        {
+            "name": "Amused",
+            "desc": "finding something funny or entertaining"
+        },
+        {
+            "name": "Attentive",
+            "desc": "focused on what you're doing"
+        },
+        {
+            "name": "Awe",
+            "desc": "feeling like you are in the presence of something vast"
+        },
+        {
+            "name": "Buoyant",
+            "desc": "feeling cheerful and lively"
+        },
+        {
+            "name": "Challenged",
+            "desc": "feeling pushed to reach a higher goal"
+        },
+        {
+            "name": "Chatty",
+            "desc": "feeling like talking in a friendly, informal way"
+        },
+        {
+            "name": "Cheerful",
+            "desc": "full of happy feelings"
+        },
+        {
+            "name": "Competent",
+            "desc": "feeling capable of doing something successfully"
+        },
+        {
+            "name": "Confident",
+            "desc": "feeling sure of yourself"
+        },
+        {
+            "name": "Curious",
+            "desc": "interested in learning something"
+        },
+        {
+            "name": "Delighted",
+            "desc": "feeling lifted by joy"
+        },
+        {
+            "name": "Desire",
+            "desc": "wishing or longing for something or someone"
+        },
+        {
+            "name": "Determined",
+            "desc": "knowing what you want and not letting anything stand in the way"
+        },
+        {
+            "name": "Eager",
+            "desc": "impatiently wanting to do or get something"
+        },
+        {
+            "name": "Ecstatic",
+            "desc": "feeling the greatest amount of joy or happiness"
+        },
+        {
+            "name": "Elated",
+            "desc": "very joyful, proud or enthusiastic"
+        },
+        {
+            "name": "Empowered",
+            "desc": "feeling stronger or more confident due to someone or something that happened"
+        },
+        {
+            "name": "Enchanted",
+            "desc": "filled with delight"
+        },
+        {
+            "name": "Encouraged",
+            "desc": "feeling supported and hopeful with a sense of increasing confidence"
+        },
+        {
+            "name": "Energized",
+            "desc": "feeling like you are wide awake and ready to get up and go"
+        },
+        {
+            "name": "Engaged",
+            "desc": "paying full attention or participating fully in something"
+        },
+        {
+            "name": "Engrossed",
+            "desc": "fully focused on someone or something"
+        },
+        {
+            "name": "Enjoyment",
+            "desc": "taking pleasure in an activity or a moment"
+        },
+        {
+            "name": "Enraptured",
+            "desc": "something that gives you great pleasure or joy"
+        },
+        {
+            "name": "Enthralled",
+            "desc": "feeling delighted and captivated by something"
+        },
+        {
+            "name": "Enthusiastic",
+            "desc": "highly interested in an idea or activity"
+        },
+        {
+            "name": "Euphoric",
+            "desc": "intense happiness and a sense of wellbeing"
+        },
+        {
+            "name": "Excited",
+            "desc": "enthusiastic about something in the future"
+        },
+        {
+            "name": "Exhilarated",
+            "desc": "in high spirits; cheerful and invigorated"
+        },
+        {
+            "name": "Fascinated",
+            "desc": "strongly attracted and interested in something"
+        },
+        {
+            "name": "Focused",
+            "desc": "engaged in only one idea or activity"
+        },
+        {
+            "name": "Glad",
+            "desc": "feeling pleased, satisfied, or grateful"
+        },
+        {
+            "name": "Glowing",
+            "desc": "very enthusiastic and joyful"
+        },
+        {
+            "name": "Goofy",
+            "desc": "feeling silly and playful"
+        },
+        {
+            "name": "Happy",
+            "desc": "very pleased and filled with joy"
+        },
+        {
+            "name": "Hopeful",
+            "desc": "optimistic that something good will happen"
+        },
+        {
+            "name": "In Love",
+            "desc": "feeling a strong emotional attachment, often romantic and sexual"
+        },
+        {
+            "name": "Infatuated",
+            "desc": "having intense interest in someone or something at the beginning of a relationship; this feeling will grow into love or dissipate over time"
+        },
+        {
+            "name": "Inspired",
+            "desc": "affected powerfully by something in a way that motivates you to do something"
+        },
+        {
+            "name": "Interested",
+            "desc": "being attracted to something and wanting to learn more about it"
+        },
+        {
+            "name": "Joyful",
+            "desc": "feeling pleasure and in high spirits"
+        },
+        {
+            "name": "Motivated",
+            "desc": "enthusiastic about doing something"
+        },
+        {
+            "name": "Optimistic",
+            "desc": "hopeful and confident about the future"
+        },
+        {
+            "name": "Overjoyed",
+            "desc": "delighted, intensely happy"
+        },
+        {
+            "name": "Playful",
+            "desc": "feeling happy and lighthearted"
+        },
+        {
+            "name": "Pleasant",
+            "desc": "feeling mostly positive"
+        },
+        {
+            "name": "Pleased",
+            "desc": "feeling content and happy about a particular situation or person"
+        },
+        {
+            "name": "Productive",
+            "desc": "feeling like you are accomplishing your tasks or achieving your goals"
+        },
+        {
+            "name": "Proud",
+            "desc": "pleased with your achievements or those of someone close to you"
+        },
+        {
+            "name": "Reinvigorated",
+            "desc": "feeling renewed energy"
+        },
+        {
+            "name": "Romantic",
+            "desc": "having the desire to express affection and connection with someone in a special way"
+        },
+        {
+            "name": "Silly",
+            "desc": "feeling a bit foolish"
+        },
+        {
+            "name": "Stoked",
+            "desc": "feeling excited or pleased about something"
+        },
+        {
+            "name": "Successful",
+            "desc": "feeling like you've achieved something important to you"
+        },
+        {
+            "name": "Surprised",
+            "desc": "caught off guard by something unexpected or unusual"
+        },
+        {
+            "name": "Talkative",
+            "desc": "having the desire to express thoughts and opinions in a conversation"
+        },
+        {
+            "name": "Thrilled",
+            "desc": "feeling very excited all of a sudden"
+        },
+        {
+            "name": "Upbeat",
+            "desc": "feeling high energy and bubbly"
+        },
+        {
+            "name": "Wishful",
+            "desc": "having or showing a wish, longing"
+        }
+    ],
     "blue": [],
     "green": []
 }
